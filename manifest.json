@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "tombychowski.montage",
+  "name": "Montage lifecycle fixture",
+  "version": "0.0.1",
+  "description": "Inert fixture for disposable shared-plugin claims and removal tests; not the Montage product UI.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Fixture.qml"
+  }
+}
